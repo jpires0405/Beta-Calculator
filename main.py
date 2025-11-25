@@ -52,4 +52,4 @@ def run_beta_calculator(stock_ticker, sector_ticker=None, start="2023-01-01", en
 if __name__ == "__main__":
     stock = "AAPL"
     sector = "XLK"
-    run_beta_calculator(stock_ticker=stock, sector_ticker=sector, start="2020-01-01", end="2025-01-01")
+    run_beta_calculator(stock_ticker=stock, sector_ticker=sector, start="2024-01-01", end="2025-01-01")
